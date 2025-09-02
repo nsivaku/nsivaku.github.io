@@ -19,6 +19,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMI 2025</div><img src='images/engagevp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A Multimodal Classroom Video Question-Answering Framework for Automated Understanding of Collaborative Learning
+
+**Nithin Sivakumaran***, Chia-Yu Yang*, Abhay Zala*, Shoubin Yu, Daeun Hong, Xiaotian Zou, Elias Stengel-Eskin, Dan Carpenter, Wookhee Min, Cindy Hmelo-Silver, Jonathan Rowe, James Lester, Mohit Bansal.
+
+[**Code**](https://github.com/nsivaku/EngageVP) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose EngageVP, a new mutimodal video QA framework for stronger understanding of student engagement and behavior in classroom videos
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/MF2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
