@@ -24,14 +24,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 [Movie Facts and Fibs (MF^2): A Benchmark for Long Movie Understanding](https://arxiv.org/abs/2506.06275)
 
-Emmanouil Zaranis, António Farinhas, Saul Santos, Beatriz Canaverde, Miguel Moura Ramos, Aditya K Surikuchi, André Viveiros, Baohao Liao, Elena Bueno-Benito, **Nithin Sivakumaran**, Pavlo Vasylenko, Shoubin Yu, Sonal Sannigrahi, Wafaa Mohammed, Ben Peters, Danae Sánchez Villegas, Elias Stengel-Eskin, Giuseppe Attanasio, Jaehong Yoon, Stella Frank, Alessandro Suglia, Chrysoula Zerva, Desmond Elliott, Mariella Dimiccoli, Mohit Bansal, Oswald Lanz, Raffaella Bernardi, Raquel Fernández, Sandro Pezzelle, Vlad Niculae, André F. T. Martins
+Emmanouil Zaranis, António Farinhas, Saul Santos, Beatriz Canaverde,...**Nithin Sivakumaran**, et al.
 
 [**Code**](https://github.com/deep-spin/MF2) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose MF2, a new benchmark for evaluating whether models can comprehend, consolidate, and recall key narrative information from full-length movies
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 💻 Experience
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
