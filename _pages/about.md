@@ -10,19 +10,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
+I am a 4th year undergraduate student majoring in Computer Science and Economics with a minor in Statistics at UNC Chapel Hill. I work in the [MURGe Lab](https://murgelab.cs.unc.edu/) where I am advised by [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/) and [Prof. Elias Stengel-Eskin](https://esteng.github.io/). I am currently seeking PhD programs for Fall 2026. My research focuses on building collaborative multimodal AI systems for monitorable LLM reasoning. Additionally, I am interested in using post-training methods for LLMs to improve interpretability.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08*: &nbsp;🎉🎉 Our paper "A Multimodal Classroom Video Question-Answering Framework for Automated Understanding of Collaborative Learning" was accepted to ICMI 2025!
+- *2025.06*: &nbsp;🎉🎉 New preprint "Movie Facts and Fibs (MF^2): A Benchmark for Long Movie Understanding" introducing a benchmark for narrative understanding of long open-domain movies.
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMI 2025</div><img src='images/engagevp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A Multimodal Classroom Video Question-Answering Framework for Automated Understanding of Collaborative Learning
+[A Multimodal Classroom Video Question-Answering Framework for Automated Understanding of Collaborative Learning](https://dl.acm.org/doi/abs/10.1145/3716553.3750795)
 
 **Nithin Sivakumaran***, Chia-Yu Yang*, Abhay Zala*, Shoubin Yu, Daeun Hong, Xiaotian Zou, Elias Stengel-Eskin, Dan Carpenter, Wookhee Min, Cindy Hmelo-Silver, Jonathan Rowe, James Lester, Mohit Bansal.
 
@@ -44,4 +43,5 @@ Emmanouil Zaranis, António Farinhas, Saul Santos, Beatriz Canaverde,...**Nithin
 </div>
 
 # 💻 Experience
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.05 - 2024.08*, [NSF EngageAI Institute](https://engageai.org/), Research Intern.
+- *2023.05 - 2023.08*, [Principal Financial Group](https://www.principal.com/), Software Engineering Intern.
