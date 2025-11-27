@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 4th year undergraduate student majoring in Computer Science and Economics with a minor in Statistics at UNC Chapel Hill. I work in the [MURGe Lab](https://murgelab.cs.unc.edu/) where I am advised by [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/) and [Prof. Elias Stengel-Eskin](https://esteng.github.io/). I am currently seeking PhD programs for Fall 2026. My research focuses on building collaborative multimodal AI systems for monitorable LLM reasoning. Additionally, I am interested in using post-training methods for LLMs to improve interpretability.
+I am a 4th year undergraduate student majoring in Computer Science and Economics with a minor in Statistics at UNC Chapel Hill. I work in the [MURGe Lab](https://murgelab.cs.unc.edu/) where I am advised by [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/) and [Prof. Elias Stengel-Eskin](https://esteng.github.io/). **I am currently seeking PhD programs for Fall 2026.** My research focuses on building collaborative multimodal AI systems for monitorable LLM reasoning. Additionally, I am interested in using post-training methods for LLMs to improve interpretability.
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 Our paper "A Multimodal Classroom Video Question-Answering Framework for Automated Understanding of Collaborative Learning" was accepted to ICMI 2025!
