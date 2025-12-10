@@ -26,7 +26,7 @@ My research focuses on building collaborative multimodal AI systems for monitora
 
 [DART: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal Reasoning](https://www.arxiv.org/abs/2512.07132)
 
-Nithin Sivakumaran, Justin Chih-Yao Chen, David Wan, Yue Zhang, Jaehong Yoon, Elias Stengel-Eskin, Mohit Bansal.
+**Nithin Sivakumaran**, Justin Chih-Yao Chen, David Wan, Yue Zhang, Jaehong Yoon, Elias Stengel-Eskin, Mohit Bansal.
 
 [**Code**](https://github.com/nsivaku/dart) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose DART, a multi-agent multimodal debate framework that uses disagreement between VLM agents to address visual uncertainty
