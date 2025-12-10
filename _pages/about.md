@@ -15,10 +15,23 @@ I am a 4th year undergraduate student majoring in Computer Science and Economics
 My research focuses on building collaborative multimodal AI systems for monitorable LLM reasoning. Additionally, I am interested in using post-training methods for LLMs to improve interpretability.
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 New preprint "Movie Facts and Fibs (MF^2): A Benchmark for Long Movie Understanding" introducing a benchmark for narrative understanding of long open-domain movies.
 - *2025.08*: &nbsp;🎉🎉 Our paper "A Multimodal Classroom Video Question-Answering Framework for Automated Understanding of Collaborative Learning" was accepted to ICMI 2025!
 - *2025.06*: &nbsp;🎉🎉 New preprint "Movie Facts and Fibs (MF^2): A Benchmark for Long Movie Understanding" introducing a benchmark for narrative understanding of long open-domain movies.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/dart.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DART: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal Reasoning](https://www.arxiv.org/abs/2512.07132)
+
+Nithin Sivakumaran, Justin Chih-Yao Chen, David Wan, Yue Zhang, Jaehong Yoon, Elias Stengel-Eskin, Mohit Bansal.
+
+[**Code**](https://github.com/nsivaku/dart) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose DART, a multi-agent multimodal debate framework that uses disagreement between VLM agents to address visual uncertainty
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMI 2025</div><img src='images/engagevp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
