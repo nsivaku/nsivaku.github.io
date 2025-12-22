@@ -15,6 +15,7 @@ I am a 4th year undergraduate student majoring in Computer Science and Economics
 My research focuses on building collaborative multimodal AI systems for monitorable LLM reasoning. Additionally, I am interested in using post-training methods for LLMs to improve interpretability.
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 Honored to receive an Honorable Mention for the CRA Outstanding Undergraduate Research Award.
 - *2025.12*: &nbsp;🎉🎉 New preprint "Movie Facts and Fibs (MF^2): A Benchmark for Long Movie Understanding" introducing a benchmark for narrative understanding of long open-domain movies.
 - *2025.08*: &nbsp;🎉🎉 Our paper "A Multimodal Classroom Video Question-Answering Framework for Automated Understanding of Collaborative Learning" was accepted to ICMI 2025!
 - *2025.06*: &nbsp;🎉🎉 New preprint "Movie Facts and Fibs (MF^2): A Benchmark for Long Movie Understanding" introducing a benchmark for narrative understanding of long open-domain movies.
