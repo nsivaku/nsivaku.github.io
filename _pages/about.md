@@ -15,13 +15,24 @@ I am a 4th year undergraduate student majoring in Computer Science and Economics
 My research focuses on building collaborative multimodal AI systems for monitorable LLM reasoning. Additionally, I am interested in using post-training methods for LLMs to improve interpretability.
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 New preprint "Balancing Faithfulness and Performance in Reasoning via Multi-Listener Soft Execution" on a new training framework to improve faithfulness within LLMs.
 - *2026.01*: &nbsp;🎉🎉 Our paper "DART: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal Reasoning" was accepted to EACL 2026 main!
 - *2025.12*: &nbsp;🎉🎉 Honored to receive an Honorable Mention for the CRA Outstanding Undergraduate Research Award.
 - *2025.12*: &nbsp;🎉🎉 New preprint "Movie Facts and Fibs (MF^2): A Benchmark for Long Movie Understanding" introducing a benchmark for narrative understanding of long open-domain movies.
-- *2025.08*: &nbsp;🎉🎉 Our paper "A Multimodal Classroom Video Question-Answering Framework for Automated Understanding of Collaborative Learning" was accepted to ICMI 2025!
-- *2025.06*: &nbsp;🎉🎉 New preprint "Movie Facts and Fibs (MF^2): A Benchmark for Long Movie Understanding" introducing a benchmark for narrative understanding of long open-domain movies.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/remul.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Balancing Faithfulness and Performance in Reasoning via Multi-Listener Soft Execution](https://arxiv.org/abs/2602.16154)
+
+**Nithin Sivakumaran**, Shoubin Yu, Hyunji Lee, Yue Zhang, Ali Payani, Mohit Bansal, Elias Stengel-Eskin.
+
+[**Code**](https://github.com/nsivaku/remul) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose REMuL, a training framework that improves faithfulness by incentivizing a speaker model to produce reasoning that is executable by a set of listener models
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EACL 2026</div><img src='images/dart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
