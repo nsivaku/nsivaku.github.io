@@ -10,11 +10,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 4th year undergraduate student majoring in Computer Science and Economics with a minor in Statistics at UNC Chapel Hill. I work in the [MURGe Lab](https://murgelab.cs.unc.edu/) where I am mentored by [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/) and [Prof. Elias Stengel-Eskin](https://esteng.github.io/). **I am currently seeking PhD programs for Fall 2026.** 
-
-My research focuses on building collaborative multimodal AI systems for monitorable LLM reasoning. Additionally, I am interested in using post-training methods for LLMs to improve interpretability.
+I am a 1st year PhD student at UMD, advised by [Prof. Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) in [GAMMA Lab](https://gamma.umd.edu/). I am supported by the NSF Graduate Research Fellowship. Previously, I did research in my undergrad working at [MURGe Lab](https://murgelab.cs.unc.edu/), where I was mentored by [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/) and [Prof. Elias Stengel-Eskin](https://esteng.github.io/).
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 Started my PhD at UMD!
+- - *2026.01*: &nbsp;🎉🎉 Our paper "Balancing Faithfulness and Performance in Reasoning via Multi-Listener Soft Execution" was accepted to EMNLP 2026 main!
 - *2026.04*: &nbsp;🎉🎉 Honored to receive the NSF Graduate Research Fellowship!
 - *2026.02*: &nbsp;🎉🎉 New preprint "Balancing Faithfulness and Performance in Reasoning via Multi-Listener Soft Execution" on a new training framework to improve faithfulness within LLMs.
 - *2026.01*: &nbsp;🎉🎉 Our paper "DART: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal Reasoning" was accepted to EACL 2026 main!
@@ -23,7 +23,7 @@ My research focuses on building collaborative multimodal AI systems for monitora
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/remul.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Findings</div><img src='images/remul.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Balancing Faithfulness and Performance in Reasoning via Multi-Listener Soft Execution](https://arxiv.org/abs/2602.16154)
@@ -34,6 +34,19 @@ My research focuses on building collaborative multimodal AI systems for monitora
 - We propose REMuL, a training framework that improves faithfulness by incentivizing a speaker model to produce reasoning that is executable by a set of listener models
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Main</div><img src='images/MF2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Movie Facts and Fibs (MF^2): A Benchmark for Long Movie Understanding](https://arxiv.org/abs/2506.06275)
+
+Emmanouil Zaranis, António Farinhas, Saul Santos, Beatriz Canaverde,...**Nithin Sivakumaran**, et al.
+
+[**Code**](https://github.com/deep-spin/MF2) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose MF2, a new benchmark for evaluating whether models can comprehend, consolidate, and recall key narrative information from full-length movies
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EACL 2026</div><img src='images/dart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -59,18 +72,5 @@ My research focuses on building collaborative multimodal AI systems for monitora
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/MF2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Movie Facts and Fibs (MF^2): A Benchmark for Long Movie Understanding](https://arxiv.org/abs/2506.06275)
-
-Emmanouil Zaranis, António Farinhas, Saul Santos, Beatriz Canaverde,...**Nithin Sivakumaran**, et al.
-
-[**Code**](https://github.com/deep-spin/MF2) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose MF2, a new benchmark for evaluating whether models can comprehend, consolidate, and recall key narrative information from full-length movies
-</div>
-</div>
-
 # 💻 Experience
 - *2024.05 - 2024.08*, [NSF EngageAI Institute](https://engageai.org/), Research Intern.
-- *2023.05 - 2023.08*, [Principal Financial Group](https://www.principal.com/), Software Engineering Intern.
