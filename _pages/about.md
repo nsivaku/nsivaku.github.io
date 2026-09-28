@@ -14,7 +14,7 @@ I am a 1st year PhD student at UMD, advised by [Prof. Dinesh Manocha](https://ww
 
 # 🔥 News
 - *2026.08*: &nbsp;🎉🎉 Started my PhD at UMD!
-- - *2026.01*: &nbsp;🎉🎉 Our paper "Balancing Faithfulness and Performance in Reasoning via Multi-Listener Soft Execution" was accepted to EMNLP 2026 main!
+- *2026.01*: &nbsp;🎉🎉 Our paper "Balancing Faithfulness and Performance in Reasoning via Multi-Listener Soft Execution" was accepted to EMNLP 2026 main!
 - *2026.04*: &nbsp;🎉🎉 Honored to receive the NSF Graduate Research Fellowship!
 - *2026.02*: &nbsp;🎉🎉 New preprint "Balancing Faithfulness and Performance in Reasoning via Multi-Listener Soft Execution" on a new training framework to improve faithfulness within LLMs.
 - *2026.01*: &nbsp;🎉🎉 Our paper "DART: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal Reasoning" was accepted to EACL 2026 main!
