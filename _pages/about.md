@@ -13,15 +13,28 @@ redirect_from:
 I am a 1st year PhD student at UMD, advised by [Prof. Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) in [GAMMA Lab](https://gamma.umd.edu/). I am supported by the NSF Graduate Research Fellowship. Previously, I did research in my undergrad working at [MURGe Lab](https://murgelab.cs.unc.edu/), where I was mentored by [Prof. Mohit Bansal](https://www.cs.unc.edu/~mbansal/) and [Prof. Elias Stengel-Eskin](https://esteng.github.io/).
 
 # 🔥 News
-- *2026.08*: &nbsp;🎉🎉 Started my PhD at UMD!
-- *2026.01*: &nbsp;🎉🎉 Our paper "Balancing Faithfulness and Performance in Reasoning via Multi-Listener Soft Execution" was accepted to EMNLP 2026 main!
-- *2026.04*: &nbsp;🎉🎉 Honored to receive the NSF Graduate Research Fellowship!
-- *2026.02*: &nbsp;🎉🎉 New preprint "Balancing Faithfulness and Performance in Reasoning via Multi-Listener Soft Execution" on a new training framework to improve faithfulness within LLMs.
-- *2026.01*: &nbsp;🎉🎉 Our paper "DART: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal Reasoning" was accepted to EACL 2026 main!
-- *2025.12*: &nbsp;🎉🎉 Honored to receive an Honorable Mention for the CRA Outstanding Undergraduate Research Award.
-- *2025.12*: &nbsp;🎉🎉 New preprint "Movie Facts and Fibs (MF^2): A Benchmark for Long Movie Understanding" introducing a benchmark for narrative understanding of long open-domain movies.
+- *2026.08*: &nbsp; New preprint "ToM2Vec: Continuous Theory-of-Mind Tokens for Multi-Agent Coordination" on a new training method to improve theory-of-mind in multi-agent systems.
+- *2026.08*: &nbsp; Started my PhD at UMD!
+- *2026.01*: &nbsp; Our paper "Balancing Faithfulness and Performance in Reasoning via Multi-Listener Soft Execution" was accepted to EMNLP 2026 main!
+- *2026.04*: &nbsp; Honored to receive the NSF Graduate Research Fellowship!
+- *2026.02*: &nbsp; New preprint "Balancing Faithfulness and Performance in Reasoning via Multi-Listener Soft Execution" on a new training framework to improve faithfulness within LLMs.
+- *2026.01*: &nbsp; Our paper "DART: Leveraging Multi-Agent Disagreement for Tool Recruitment in Multimodal Reasoning" was accepted to EACL 2026 main!
+- *2025.12*: &nbsp; Honored to receive an Honorable Mention for the CRA Outstanding Undergraduate Research Award.
+- *2025.12*: &nbsp; New preprint "Movie Facts and Fibs (MF^2): A Benchmark for Long Movie Understanding" introducing a benchmark for narrative understanding of long open-domain movies.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/tom2vec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ToM2Vec: Continuous Theory-of-Mind Tokens for Multi-Agent Coordination](https://arxiv.org/abs/2610.29934)
+
+**Nithin Sivakumaran**, Ali Payani, Hyunji Lee, Mohit Bansal, Elias Stengel-Eskin.
+
+[**Code**](https://github.com/nsivaku/tom2vec) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We introduce ToM2Vec, a method to train LLM agents to model their partner’s reasoning in latent space to improve coordination in multi-agent tasks.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026 Findings</div><img src='images/remul.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
